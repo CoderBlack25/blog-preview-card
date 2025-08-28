@@ -63,9 +63,7 @@ I want to keep practicing:
 
 ### Useful resources
 
-- MDN CSS documentation Helped me revisit some flexbox and gradient properties.
-
-- Frontend Mentor Slack/Community Great place to see how others tackled the same challenge.
+- MDN CSS documentation (https://developer.mozilla.org/en-US/docs/Web/CSS) Helped me revisit some flexbox and gradient properties.
 
 - [W3Schools HTML and CSS Tutorials] (https://www.w3schools.com)
 
